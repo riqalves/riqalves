@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languanges & Tools 💻</h2>
+<h2 align="left">Linguagens & Ferramentas 💻</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Reach me 📭</h2>
+<h2 align="left">Redes 📭</h2>
 
 ###
 
