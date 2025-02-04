@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Redes 📭</h2>
+<h2 align="left">Contato 📭</h2>
 
 ###
 
