@@ -9,7 +9,6 @@
 ###
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento de Software Multiplataforma na Fatec.
-- 📖 Aprendendo mais sobre Java.
 
 
 ###
